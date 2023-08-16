@@ -1,0 +1,22 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "name": "Manoj",
+            "age": 29,
+            "isActive": 0
+          },
+          {
+            "id": 2,
+            "name": "Saroj",
+            "age": 19,
+            "isActive": 1
+          },
+          {
+            "id": 3,
+            "name": "Kumar",
+            "age": 54,
+            "isActive": 0
+          }
+    ]
+}
